@@ -1,2 +1,2 @@
 # FUTURE_PE_02
-An AI-driven UGC marketing campaign pack built using advanced prompt engineering.
+AI-generated UGC ad scripts, hooks, captions, and CTA content for marketing campaigns.
