@@ -1,0 +1,66 @@
+PROMPT 1 — UGC SCRIPT GENERATION
+
+Act as a professional UGC ad copywriter.
+
+Create a 30-second Instagram Reel ad script for a skincare face wash.
+
+Target audience:
+College students aged 18-25.
+
+Tone:
+Authentic, casual, relatable.
+
+Structure:
+Hook → Problem → Solution → Result → CTA.
+
+Make it sound human, not corporate.
+
+
+WHY THIS PROMPT WORKS:
+- Defines role clearly
+- Defines audience
+- Defines output structure
+- Controls tone
+- Focuses on conversion
+
+
+--------------------------------------------------
+
+
+PROMPT 2 — HOOK GENERATION
+
+Generate 10 scroll-stopping hooks for a skincare product advertisement.
+
+Requirements:
+- Emotional
+- Curiosity-driven
+- Short-form
+- Instagram Reel style
+
+
+WHY THIS PROMPT WORKS:
+- Optimized for attention
+- Platform-specific
+- Designed for high engagement
+
+
+--------------------------------------------------
+
+
+PROMPT 3 — CAPTION GENERATION
+
+Write 5 Instagram captions for a skincare advertisement.
+
+Tone:
+Friendly and trendy.
+
+Include:
+- Emojis
+- CTA
+- Short-form style
+
+
+WHY THIS PROMPT WORKS:
+- Matches social media behavior
+- Creates engaging captions
+- Maintains platform-native tone
